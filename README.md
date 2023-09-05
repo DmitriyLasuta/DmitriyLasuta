@@ -22,18 +22,18 @@
 ### 🛠️ Languages and Tools :
 
 <div>
-  <img alt='html' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='60'>&nbsp;&nbsp;
-  <img alt='css' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='javascript' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='scss' src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='bootstrap' src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='typescript' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='react' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='git' src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='npm' src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width='60'> &nbsp;&nbsp;
-  <img alt='yarn' src='https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg' width='60'> &nbsp;&nbsp;
-  <img alt='vs code' src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width='60'> &nbsp;&nbsp;
-  <img alt='vite' src='https://vite-docs-ru.vercel.app/logo.svg' width='60'> &nbsp;&nbsp;
+  <img alt='html' src='./assets/tools/html5-original.svg' width='60'>&nbsp;&nbsp;
+  <img alt='css' src='./assets/tools/css3.svg' width='60'> &nbsp;&nbsp;
+  <img alt='javascript' src='./assets/tools/javascript.svg' width='60'> &nbsp;&nbsp;
+  <img alt='scss' src='./assets/tools/sass.svg' width='60'> &nbsp;&nbsp;
+  <img alt='bootstrap' src='./assets/tools/bootstrap.svg' width='60'> &nbsp;&nbsp;
+  <img alt='typescript' src='./assets/tools/typescript.svg' width='60'> &nbsp;&nbsp;
+  <img alt='react' src='./assets/tools/react.svg' width='60'> &nbsp;&nbsp;
+  <img alt='git' src='./assets/tools/git.svg' width='60'> &nbsp;&nbsp;
+  <img alt='npm' src='./assets/tools/npm.svg' width='60'> &nbsp;&nbsp;
+  <img alt='yarn' src='./assets/tools/yarn.svg' width='60'> &nbsp;&nbsp;
+  <img alt='vs code' src='./assets/tools/vscode.svg' width='60'> &nbsp;&nbsp;
+  <img alt='vite' src='./assets/tools/vite.svg' width='60'> &nbsp;&nbsp;
 </div>
 
 <br>
