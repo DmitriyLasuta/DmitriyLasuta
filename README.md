@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif' width='300' />
+  <img src='./assets/developer.webp' width='300' />
   <br>
   <br>  
   <div>
@@ -16,6 +16,7 @@
   <h1>
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dmitry Lasuta, frontend developer.
   </h1>
+  
 </div>
 
 ### 🛠️ Languages and Tools :
@@ -34,6 +35,16 @@
   <img alt='vs code' src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width='60'> &nbsp;&nbsp;
   <img alt='vite' src='https://vite-docs-ru.vercel.app/logo.svg' width='60'> &nbsp;&nbsp;
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img align='center' alt='' src='./assets/github-snake.svg'>
+</div>
+
+<br>
+<br>
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryLasuta&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryLasuta&theme=github_dark)
