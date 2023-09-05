@@ -39,9 +39,11 @@
 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=DmitryLasuta&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
-&nbsp;&nbsp;
+
+<br>
+<br>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryLasuta&theme=transparent)](https://git.io/streak-stats)
 
-#### Codewars
-
+#### ⚔️ Codewars 
 <img src="https://www.codewars.com/users/LasutaDmitriy/badges/large">
