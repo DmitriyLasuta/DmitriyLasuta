@@ -39,15 +39,13 @@
 <br>
 <br>
 
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryLasuta&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryLasuta&theme=github_dark)
+
 <div align="center">
   <img align='center' alt='' src='./assets/github-snake.svg'>
 </div>
 
-<br>
-<br>
-
-### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryLasuta&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryLasuta&theme=github_dark)
-
 #### ⚔️ Codewars 
 <img src="https://www.codewars.com/users/LasutaDmitriy/badges/large">
+
