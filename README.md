@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./assets/developer.webp' width='300' />
+  <img src='./assets/code-typing-animate.svg' width='300' />
   <br>
   <br>  
   <div>
