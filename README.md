@@ -22,18 +22,18 @@
 ### 🛠️ Languages and Tools :
 
 <div>
-  <a href='#'><img alt='html' src='./assets/tools/html5-original.svg' width='60'>&nbsp;&nbsp;</a>
-  <a href='#'><img alt='css' src='./assets/tools/css3.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='javascript' src='./assets/tools/javascript.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='scss' src='./assets/tools/sass.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='bootstrap' src='./assets/tools/bootstrap.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='typescript' src='./assets/tools/typescript.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='react' src='./assets/tools/react.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='git' src='./assets/tools/git.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='npm' src='./assets/tools/npm.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='yarn' src='./assets/tools/yarn.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='vs code' src='./assets/tools/vscode.svg' width='60'> &nbsp;&nbsp;</a>
-  <a href='#'><img alt='vite' src='./assets/tools/vite.svg' width='60'> &nbsp;&nbsp;</a>
+  <img alt='html' src='./assets/tools/html5-original.svg' width='60'>
+  <img alt='css' src='./assets/tools/css3.svg' width='60'>
+  <img alt='javascript' src='./assets/tools/javascript.svg' width='60'>
+  <img alt='scss' src='./assets/tools/sass.svg' width='60'>
+  <img alt='bootstrap' src='./assets/tools/bootstrap.svg' width='60'>
+  <img alt='typescript' src='./assets/tools/typescript.svg' width='60'>
+  <img alt='react' src='./assets/tools/react.svg' width='60'>
+  <img alt='git' src='./assets/tools/git.svg' width='60'>
+  <img alt='npm' src='./assets/tools/npm.svg' width='60'>
+  <img alt='yarn' src='./assets/tools/yarn.svg' width='60'>
+  <img alt='vs code' src='./assets/tools/vscode.svg' width='60'>
+  <img alt='vite' src='./assets/tools/vite.svg' width='60'>
 </div>
 
 <br>
