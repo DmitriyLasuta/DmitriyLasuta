@@ -1,5 +1,5 @@
 <div align="center">
-  <img width='450' src='./assets/code-typing-animate.svg' />
+  <a href='#'><img width='450' src='./assets/code-typing-animate.svg' /></a>
   <br>
   <br>  
   <div>
