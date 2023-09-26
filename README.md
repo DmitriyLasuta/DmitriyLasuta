@@ -1,9 +1,4 @@
 <div id='header'>
-  <!-- Typing SVG -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=800&size=32&duration=4000&pause=100&color=E6EDF3&multiline=true&width=450&lines=Hi%2C+I'm+Dmitry+Lasuta;Hi%2C+I'm+a+frontend+developer." 
-    alt="Typing SVG: I'm Dmitry Lasuta, frontend developer" 
-  />
   <!-- Sunset gif -->
   <img 
     align='right' 
@@ -11,10 +6,15 @@
     width='100' 
     alt='' 
   />
+  <!-- Typing SVG -->
+  <img
+    src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=4000&pause=1000&color=E6EDF3&vCenter=true&width=600&lines=Hi%2C+my+name+is+Dmitri+Lasuta.;I am+a+frontend+developer'
+    alt='I am Dmitry Lasuta' 
+  />
 </div>
 
 <div id='skills-section'>
-  <hr />
+<hr />
   <!-- Night coder gif -->
   <img
     align='right' 
