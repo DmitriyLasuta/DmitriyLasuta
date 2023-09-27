@@ -24,7 +24,7 @@
   <h3>Languages and Tools</h3>
   <!-- Skill icons -->
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,scss,figma,git,github,vscode,md,postman,redux,regex,vite,webpack,docker&perline=9" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,scss,figma,git,github,vscode,md,postman,regex,vite,webpack,docker&perline=9" 
   />
   <hr />
 </div>
@@ -80,19 +80,19 @@
   >
     <img 
       alt="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
   <a href='mailto:lasutadima01@gmail.com'>
     <img 
       alt="Gmail" 
-      src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail" 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     />
   </a>
   <a href='https://t.me/Srexyyyyy'>
     <img 
       alt="Telegram" 
-      src="https://img.shields.io/badge/%20Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=%23fff" 
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
     />
   </a>
 
