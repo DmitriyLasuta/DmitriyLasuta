@@ -45,8 +45,8 @@
       width='50' 
     /> 
   </h3>
-  
-  ![](https://komarev.com/ghpvc/?username=DmitryLasuta&style=for-the-badge)
+
+  <img src="https://profile-counter.glitch.me/{DmitryLasuta}/count.svg" alt="AnhellO :: Visitor's Count" />
   
   <table>
     <tr>
