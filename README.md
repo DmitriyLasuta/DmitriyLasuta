@@ -8,7 +8,7 @@
   />
   <!-- Typing SVG -->
   <img
-    src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=4000&pause=1000&color=E6EDF3&vCenter=true&width=600&lines=Hi%2C+my+name+is+Dmitri+Lasuta.;I am+a+frontend+developer'
+    src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=4000&pause=1000&color=E6EDF3&vCenter=true&width=600&lines=Hi%2C+my+name+is+Dmitry+Lasuta.;I am+a+frontend+developer'
     alt='I am Dmitry Lasuta' 
   />
 </div>
