@@ -24,7 +24,7 @@
   <h3>Languages and Tools</h3>
   <!-- Skill icons -->
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,scss,figma,git,github,vscode,md,postman,regex,vite,webpack,docker&perline=9" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,bootstrap,tailwind,scss,figma,git,github,vscode,md,postman,regex,vite,webpack,docker&perline=9" 
   />
   <hr />
 </div>
